@@ -5,8 +5,8 @@ I built and trained a CNN with three convolutional layers from scratch, and I al
 All of the models had accuracy levels exceeding 98 percent. Additionally, the incorrectly classified images were examined, and as a final step,
 I developed a straightforward application that made use of the model to classify motions in real-time using webcam video.
 
-* [GoogLeNet (Feature extraction)](https://github.com/anshulrao/asl-image-classifier/blob/master/code/SL%20Project%20-%20Feature%20extraction.ipynb)
-* [GoogLeNet (Fine-tuning)](https://github.com/anshulrao/asl-image-classifier/blob/master/code/SL%20Project%20-%20Fine-tuning.ipynb)
-* [CNN (Scratch)](https://github.com/anshulrao/asl-image-classifier/blob/master/code/SL%20Project%20-%20Scratch.ipynb)
+* [GoogLeNet (feature extraction)](https://github.com/anshulrao/asl-image-classifier/blob/master/code/SL%20Project%20-%20Feature%20extraction.ipynb)
+* [GoogLeNet (fine-tuning)](https://github.com/anshulrao/asl-image-classifier/blob/master/code/SL%20Project%20-%20Fine-tuning.ipynb)
+* [CNN (scratch)](https://github.com/anshulrao/asl-image-classifier/blob/master/code/SL%20Project%20-%20Scratch.ipynb)
 * [Incorrectly classified images](https://github.com/anshulrao/asl-image-classifier/blob/master/code/SL%20Project%20-%20Incorrect.ipynb)
 * [Live video capture classification](https://github.com/anshulrao/asl-image-classifier/blob/master/code/live_classifier.py)
