@@ -1,4 +1,5 @@
 # ASL (American Sign Language) Image Classifier
+[Please refer to the report [here](https://github.com/anshulrao/asl-image-classifier/blob/master/files/Report.pdf) for a more thorough dive into the project.]
 
 Convolutional neural networks were utilized to classify images of American Sign Language (ASL) letters using different techniques.
 I built and trained a CNN with three convolutional layers from scratch, and I also trained another one using a pre-trained model GoogLeNet. 
